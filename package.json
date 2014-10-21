@@ -1,0 +1,26 @@
+{
+  "name": "fis-postprocessor-include-file",
+  "description": "Include files to the html.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Lamtin",
+    "email": "lamtin@qq.com"
+  },
+  "homepage": "http://www.yoozi.cn/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lamtin/fis-postprocessor-include-file"
+  },
+  "keywords": [
+    "fis",
+    "include"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
